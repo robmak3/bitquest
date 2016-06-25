@@ -1,7 +1,7 @@
 superuser: null
 # commented until <walletAmount> gets a class getter
 welcomeMessage:
-   <bold><yellow>Welcome to BitQuest, the server that runs on Bitcoin! ^_^<reset>
+   <bold><yellow>Welcome to Robmak3's Revision Of Bitquest! The better server that runs on bitcoin!<reset>
 
    <yellow>Your BitQuest address is <green><walletAddress>
    <yellow>Your balance is <green><walletAmount> SAT
